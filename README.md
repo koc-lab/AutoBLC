@@ -1,5 +1,6 @@
 # AutoBLC: 
 
+![GitHub Logo](https://github.com/koc-lab/AutoBLC/blob/main/blc_architecture.png)
 
 This is the GitHub repository for the paper: E.Koc, İ.Şanlı A. Koç, **“ Word Embedding Based Basic Level Detection ”** submitted to IEEE Signal Processing Letters, 2023. In this study, we aim to automatically identify basic level categories using classical machine learning methods where the features are extracted using word embeddings including W2G, GPT-2 and BERT.
 
@@ -16,7 +17,6 @@ We share the **raw and selected features** in this repo. You can use the `featur
 
 Using the `models.ipynb`, you can run the code for all models. We also provide the trained models for both datasets.
 
-![GitHub Logo](https://github.com/koc-lab/AutoBLC/blob/main/blc_architecture.png)
 
 
 
