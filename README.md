@@ -16,7 +16,7 @@ We share the **raw and selected features** in this repo. You can use the `featur
 
 Using the `models.ipynb`, you can run the code for all models. We also provide the trained models for both datasets.
 
-![GitHub Logo](https://github.com/your-username/your-repository/raw/main/path/to/your/image.png)
+![GitHub Logo](https://github.com/koc-lab/AutoBLC/blob/main/blc_architecture.png)
 
 
 
