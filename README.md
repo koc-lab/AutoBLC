@@ -11,3 +11,7 @@ To extract features from the BERT and GPT-2, go `bert_gpt2_extractor.py` and run
 #### Feature Selection ####
 
 We share the **raw and selected features** in this repo. You can use the `feature_selection.ipynb` code to select your features based on the correlation between features and targets
+
+#### Models ####
+
+Using the `models.ipynb`, you can run the code for all models. We also provide the trained models for both dataset.
