@@ -14,4 +14,4 @@ We share the **raw and selected features** in this repo. You can use the `featur
 
 #### Models ####
 
-Using the `models.ipynb`, you can run the code for all models. We also provide the trained models for both dataset.
+Using the `models.ipynb`, you can run the code for all models. We also provide the trained models for both datasets.
